@@ -1,0 +1,18 @@
+
+/** manifest.json */
+{
+  "name": "Progressive Web App",
+  "short_name": "PWA",
+  "description": "Progressive Web App.",
+  "icons": [
+    {
+      "src": "/icon.png",
+      "sizes": "288x288",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#B12A34",
+  "background_color": "#B12A34"
+}
