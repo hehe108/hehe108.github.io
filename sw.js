@@ -1,4 +1,3 @@
-
 /** sw.js */
 const CACHE_NAME = 'cache-v1';
  
